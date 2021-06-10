@@ -1,2 +1,10 @@
 # python-script-docker
-Python script with docker docker-compose and makefile
+
+Rodar script python usando docker, docker-compose e makefile
+
+## Funcionamento
+Para rodar o script dentro da pasta source, utilize o comando abaixo
+
+```bash
+make run
+```
